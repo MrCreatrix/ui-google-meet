@@ -1,0 +1,17 @@
+{
+    "name": "shailesh/ui-google-meet",
+    "autoload": {
+        "psr-4": {
+            "Shailesh\\UiGoogleMeet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shailesh Dhandhukiya",
+            "email": "shailesh@ektasitechnology.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.13"
+    }
+}
